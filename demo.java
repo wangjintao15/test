@@ -1,2 +1,5 @@
-java
-修改内容
+public class demo {
+	private int age;
+	private String name;
+}
+
